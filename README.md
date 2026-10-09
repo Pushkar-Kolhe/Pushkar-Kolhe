@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Pushkar Kolhe 👋
 
-<!--
-**Pushkar-Kolhe/Pushkar-Kolhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year B.E. Computer Engineering Student from Pune, India.
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer passionate about building web applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Skills: Core Java, MySQL, HTML, CSS, and JavaScript.
+
+🚀 Currently expanding my knowledge of Java Full Stack Development, including Spring Boot and backend development.
+
+🎯 Goal: To become a skilled software developer and build practical, industry-oriented projects.
+
+🤝 Open to learning opportunities, collaboration, and connecting with fellow developers.
+
+📫 Connect with me through GitHub!
